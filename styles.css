@@ -1,0 +1,34 @@
+    html {
+        background-image: url(leafs.jpg);
+        background-size: cover;
+    }
+    
+    body {
+        background-color: rgb(181, 121, 187);
+        color: rgb(44, 9, 9);
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        border-radius: 25px;
+        padding: 20px 50px;
+        width: 500px;
+        margin: 25px auto;
+    }
+    
+    .boxes {
+        list-style-type: none;
+        padding: 10px;
+        height: 5px;
+        box-sizing: border-box;
+        text-align: right;
+        padding-right: 100px;
+    }
+    
+    #mad_lib {
+        margin-top: 150px;
+        cursor: pointer;
+        border-radius: 25px;
+        text-emphasis-color: rgb(79, 167, 167);
+        width: 200px;
+        height: 30px;
+        font-size: 18px;
+    }
